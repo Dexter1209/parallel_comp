@@ -39,5 +39,5 @@ async function asyncFunction() {
     }
 }
 
-//Here we call the async function
+// Here we call the async function
 asyncFunction();
